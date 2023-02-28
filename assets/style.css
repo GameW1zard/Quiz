@@ -1,0 +1,44 @@
+#flexholder {
+display: flex;    
+flex-direction: column;
+margin-left: 500px;
+}
+
+#questions {
+
+    font-size: xx-large;
+
+
+}
+
+
+#counter {
+    font-size: x-large;
+    position: relative;
+    right: 400px;
+
+
+}
+
+
+
+ul {
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 0px;
+
+}
+
+li {
+
+    list-style-type: none;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    max-width: fit-content;
+    padding: 20px;
+    margin: 7px;
+
+}
