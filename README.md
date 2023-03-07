@@ -2,12 +2,12 @@
 
 ## Description
 
-This is my portfolio for future Employers! This shows off my skills with CSS JavaScript and HTML.
-It also has links for The projects that i am currently working on or have finished in the clickable cards on the page!
+A smol quiz i made to help me keep my javascript skills sharp.
+Mostly questions about things i forget or use often
 
 ## Deployed AT
 
-https://gamew1zard.github.io/Module-2-challange/
+https://gamew1zard.github.io/Quiz/
 
 ## Usage
 
